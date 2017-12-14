@@ -1,4 +1,1 @@
-# Angular-2
-Angular 2 tutorilas
-
-Hi this is Ashok.
+Hi this is Ashok. I like node js where we can create our own server.
